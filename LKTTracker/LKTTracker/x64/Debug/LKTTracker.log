@@ -1,0 +1,35 @@
+﻿Build started 5/13/2016 11:07:06 AM.
+     1>Project "C:\Users\Bassam Arshad\Desktop\OpticalFlowTrackers-FinalProjectBrownsvilleTeam\LKTTracker\LKTTracker\LKTTracker.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /I"E:\opencv-3.1.0\opencv\install\x64\vc14\..\..\include" /ZI /nologo /W3 /WX- /sdl /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\bassam arshad\desktop\opticalflowtrackers-finalprojectbrownsvilleteam\lkttracker\lkttracker\sift.h(219): warning C4267: 'initializing': conversion from 'size_t' to 'long', possible loss of data
+     1>c:\users\bassam arshad\desktop\opticalflowtrackers-finalprojectbrownsvilleteam\lkttracker\lkttracker\sift.h(243): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\bassam arshad\desktop\opticalflowtrackers-finalprojectbrownsvilleteam\lkttracker\lkttracker\sift.h(244): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\bassam arshad\desktop\opticalflowtrackers-finalprojectbrownsvilleteam\lkttracker\lkttracker\sift.h(285): warning C4267: 'initializing': conversion from 'size_t' to 'long', possible loss of data
+     1>c:\users\bassam arshad\desktop\opticalflowtrackers-finalprojectbrownsvilleteam\lkttracker\lkttracker\sift.h(440): warning C4267: 'initializing': conversion from 'size_t' to 'long', possible loss of data
+     1>c:\users\bassam arshad\desktop\opticalflowtrackers-finalprojectbrownsvilleteam\lkttracker\lkttracker\sift.h(464): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\bassam arshad\desktop\opticalflowtrackers-finalprojectbrownsvilleteam\lkttracker\lkttracker\sift.h(465): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\bassam arshad\desktop\opticalflowtrackers-finalprojectbrownsvilleteam\lkttracker\lkttracker\akaze.h(134): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\bassam arshad\desktop\opticalflowtrackers-finalprojectbrownsvilleteam\lkttracker\lkttracker\akaze.h(135): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\bassam arshad\desktop\opticalflowtrackers-finalprojectbrownsvilleteam\lkttracker\lkttracker\source.cpp(60): warning C4305: 'initializing': truncation from 'double' to 'float'
+     1>c:\users\bassam arshad\desktop\opticalflowtrackers-finalprojectbrownsvilleteam\lkttracker\lkttracker\source.cpp(217): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+     1>c:\users\bassam arshad\desktop\opticalflowtrackers-finalprojectbrownsvilleteam\lkttracker\lkttracker\source.cpp(280): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\bassam arshad\desktop\opticalflowtrackers-finalprojectbrownsvilleteam\lkttracker\lkttracker\source.cpp(281): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\bassam arshad\desktop\opticalflowtrackers-finalprojectbrownsvilleteam\lkttracker\lkttracker\source.cpp(282): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\bassam arshad\desktop\opticalflowtrackers-finalprojectbrownsvilleteam\lkttracker\lkttracker\source.cpp(283): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\bassam arshad\desktop\opticalflowtrackers-finalprojectbrownsvilleteam\lkttracker\lkttracker\source.cpp(353): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\bassam arshad\desktop\opticalflowtrackers-finalprojectbrownsvilleteam\lkttracker\lkttracker\source.cpp(354): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\bassam arshad\desktop\opticalflowtrackers-finalprojectbrownsvilleteam\lkttracker\lkttracker\source.cpp(355): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\bassam arshad\desktop\opticalflowtrackers-finalprojectbrownsvilleteam\lkttracker\lkttracker\source.cpp(356): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+     1>c:\users\bassam arshad\desktop\opticalflowtrackers-finalprojectbrownsvilleteam\lkttracker\lkttracker\source.cpp(734): warning C4551: function call missing argument list
+     1>c:\users\bassam arshad\desktop\opticalflowtrackers-finalprojectbrownsvilleteam\lkttracker\lkttracker\source.cpp(770): warning C4309: '=': truncation of constant value
+     1>c:\users\bassam arshad\desktop\opticalflowtrackers-finalprojectbrownsvilleteam\lkttracker\lkttracker\source.cpp(807): warning C4101: 'secMaxArea': unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Bassam Arshad\Desktop\OpticalFlowTrackers-FinalProjectBrownsvilleTeam\LKTTracker\x64\Debug\LKTTracker.exe" /INCREMENTAL /NOLOGO /LIBPATH:"E:\opencv-3.1.0\opencv\install\x64\vc14\lib" opencv_core310d.lib opencv_ts310d.lib opencv_video310d.lib opencv_videoio310d.lib opencv_tracking310d.lib opencv_flann310d.lib opencv_highgui310d.lib opencv_imgproc310d.lib opencv_imgcodecs310d.lib opencv_xfeatures2d310d.lib opencv_features2d310d.lib opencv_calib3d310d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Bassam Arshad\Desktop\OpticalFlowTrackers-FinalProjectBrownsvilleTeam\LKTTracker\x64\Debug\LKTTracker.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Bassam Arshad\Desktop\OpticalFlowTrackers-FinalProjectBrownsvilleTeam\LKTTracker\x64\Debug\LKTTracker.lib" /MACHINE:X64 x64\Debug\Source.obj
+         LKTTracker.vcxproj -> C:\Users\Bassam Arshad\Desktop\OpticalFlowTrackers-FinalProjectBrownsvilleTeam\LKTTracker\x64\Debug\LKTTracker.exe
+     1>Done Building Project "C:\Users\Bassam Arshad\Desktop\OpticalFlowTrackers-FinalProjectBrownsvilleTeam\LKTTracker\LKTTracker\LKTTracker.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.14

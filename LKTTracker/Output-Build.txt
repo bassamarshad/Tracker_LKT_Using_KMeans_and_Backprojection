@@ -1,0 +1,10 @@
+﻿1>------ Build started: Project: LKTTracker, Configuration: Release x64 ------
+1>  Source.cpp
+1>c:\users\utrgvcs\documents\visual studio 2013\projects\lkttracker\lkttracker\SIFT.h(177): warning C4267: 'initializing' : conversion from 'size_t' to 'long', possible loss of data
+1>c:\users\utrgvcs\documents\visual studio 2013\projects\lkttracker\lkttracker\SIFT.h(225): warning C4267: 'initializing' : conversion from 'size_t' to 'long', possible loss of data
+1>Source.cpp(44): warning C4305: 'initializing' : truncation from 'double' to 'float'
+1>Source.cpp(453): warning C4551: function call missing argument list
+1>  Generating code
+1>  Finished generating code
+1>  LKTTracker.vcxproj -> C:\Users\UTRGVCS\documents\visual studio 2013\Projects\LKTTracker\x64\Release\LKTTracker.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
